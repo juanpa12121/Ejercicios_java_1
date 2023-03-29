@@ -1,8 +1,6 @@
 package org.example;
 
-import java.util.Arrays;
-
-public class Main {
+public class VectoresMatrices {
     public static void main(String[] args) {
         //secondExercise();
         thirdExercise();
